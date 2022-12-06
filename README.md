@@ -15,6 +15,6 @@ Hi, welcome to my GitHub page. I'm La Ode Muhamad Idris, but you can call me Idr
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
 ---
-[![](https://visitcount.itsvg.in/api?id=idrislaode&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=idrislaode&icon=0&color=0)]()
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) https://visitcount.itsvg.in -->
