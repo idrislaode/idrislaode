@@ -1,8 +1,8 @@
-# 👦🏽About Me:
+# 👦🏽 About Me:
 Hi, welcome to my GitHub page. I'm La Ode Muhamad Idris, but you can call me Idris or Laode.<br>I'm Robotics, AI, and IoT Enthusiast. I'm one of the supervisors at the Robotics Center Semarang University (ROCSU).<br>My basic programming language is C, but I can do another language too, such as C++, C#, Visual Basic, Python, <br>Java, Java Script, HTML, CSS, and you name it. Now I'm still learning for ROS (Robot Operating System) and all about AI (Artificial Intelligence). 
 
 
-## 🌐 Socials:
+## 😎You can follow me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Idrislaode) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Solderungu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Solderungu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Solderungu) 
 
 # 💻 Tech Stack:
